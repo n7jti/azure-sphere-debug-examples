@@ -1,0 +1,11 @@
+{
+    "SchemaVersion": 1,
+    "Name": "clockwise",
+    "ComponentId": "e94c381e-ad75-4fff-bf89-af6544bf39e9",
+    "EntryPoint": "/bin/app",
+    "CmdArgs": [ ],
+    "Capabilities": {
+        "Gpio": [ 8, 12 ]
+    },
+    "ApplicationType": "Default"
+}
